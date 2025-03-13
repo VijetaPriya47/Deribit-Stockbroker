@@ -6,6 +6,8 @@ A C++ utility to measure order placement latency for API-based trading systems. 
 This project is a C++ trading system that interacts with the Deribit API. It supports various trading operations like placing buy/sell orders, canceling or editing orders, retrieving the order book, and viewing user positions. The system also measures **Order Placement Latency** for performance evaluation.  
 
 ---
+## Project Guide
+https://github.com/VijetaPriya47/Deribit-Stockbroker/blob/main/projectDocumentation.pdf
 
 ## Features  
 
